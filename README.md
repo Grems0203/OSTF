@@ -1,2 +1,2 @@
 # OSTF
-Open Source Digital Forensics
+Open Source Triage Forensics
